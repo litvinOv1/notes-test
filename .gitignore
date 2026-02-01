@@ -1,7 +1,7 @@
+/bitrix/
+/upload/
 /bitrix/cache/
 /bitrix/managed_cache/
-/upload/*
-!.gitkeep
-/.idea/
+/.local_history/
 /node_modules/
 /.env
