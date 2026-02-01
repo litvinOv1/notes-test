@@ -1,11 +1,11 @@
 Приложение для создания, просмотра, удаления и редактирования заметок.
 
-Важное примечание
+Важное примечание:
 Этот репозиторий содержит только пользовательские файлы для проекта заметок. Ядро Bitrix не включено в репозиторий. Вам нужно установить Bitrix отдельно.
 
 Быстрая установка (Docker)
 
-git clone https://github.com/litvinOv1/notes-test.git
+git clone https://github.com/litvinOv1/notes-test.gitt
 cd notes-test
 docker-compose up -d
 
