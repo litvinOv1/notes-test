@@ -1,0 +1,7 @@
+/bitrix/cache/
+/bitrix/managed_cache/
+/upload/*
+!.gitkeep
+/.idea/
+/node_modules/
+/.env

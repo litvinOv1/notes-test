@@ -1,0 +1,12 @@
+2026-02-01 07:10:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2026-02-01 07:10:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2026-02-01 07:10:33 -  - exec CUpdateClientPartner::ParseServerData
+2026-02-01 07:10:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2026-02-01 07:10:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2026-02-01 07:10:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&TYPENC=D&CLIENT_PHPVER=8.2.30&NGINX=Y&dbv=8.0.45&instm=main%2C25.100.500%2CY%3Bb24connector%2C24.0.100%2CN%3Bbitrix.sitecorporate%2C24.0.0%2CN%3Bbitrixcloud%2C25.0.0%2CN%3Bclouds%2C25.100.0%2CN%3Bfileman%2C25.0.0%2CN%3Bhighloadblock%2C24.100.0%2CN%3Biblock%2C25.0.100%2CN%3Blanding%2C24.800.300%2CN%3Blocation%2C25.100.0%2CN%3Bmessageservice%2C24.900.100%2CN%3Bperfmon%2C24.200.0%2CN%3Brest%2C25.300.100%2CN%3Bsearch%2C25.0.0%2CN%3Bsecurity%2C24.0.300%2CN%3Bseo%2C24.700.100%2CN%3Bsocialservices%2C24.200.100%2CN%3Btranslate%2C25.0.0%2CN%3Bui%2C25.50.200%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2026-02-01 07:10:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2026-02-01 07:10:34 -  - TIME GetUpdatesList(request) 0.221 sec
+2026-02-01 07:10:34 -  - exec CUpdateClientPartner::ParseServerData
+2026-02-01 07:10:34 -  - exec CUpdateClientPartner::__CollectRequestData
+2026-02-01 07:10:34 -  - exec CUpdateClientPartner::GetHTTPPage
+2026-02-01 07:10:34 -  - exec CUpdateClientPartner::ParseServerData
