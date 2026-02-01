@@ -5,8 +5,6 @@
 
 Быстрая установка (Docker)
 
-git clone https://github.com/litvinOv1/notes-test.gitt
-cd notes-test
-docker-compose up -d
+git clone https://github.com/litvinOv1/notes-test.git && cd notes-test && docker-compose up -d
 
 Приложение будет доступно по адресу: http://localhost:8080/notes.php
